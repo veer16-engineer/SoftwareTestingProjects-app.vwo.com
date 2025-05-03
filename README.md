@@ -142,7 +142,9 @@ Images: [test-button-blue.png, test-button-orange.png]
 
 🔍 Test Case Coverage
 
- ![deepseek_mermaid_20250503_2a0170](https://github.com/user-attachments/assets/71fee0d5-9ea5-4a71-abb2-d6a2810e5982)
+ <p align="center">
+  <img src="C:\Users\QA_InfoTech\Downloads\deepseek_mermaid_20250503_2a0170.png" alt="Test Overview" width="500"/>
+</p>
 
 🚨 Defect Reporting
 Severity Levels:
