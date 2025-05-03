@@ -28,34 +28,30 @@ Comprehensive manual testing documentation for VWO (app.vwo.com) including test 
 ---
 
 
+
 ## 1.🗂️ Folder Structure
-├── Test_Plan/
-│   ├── VWO_Test_Plan.docx/pdf
-│   └── Test_Strategy.md
-│
-├── Test_Cases/
-│   ├── 01_Authentication/
-│   │   ├── TC01_Login_Valid.md
-│   │   ├── TC02_Login_Invalid.md
-│   │   └── TC03_Password_Reset.md
-│   │
-│   ├── 02_AB_Testing/
-│   │   ├── TC01_Create_Test.md
-│   │   ├── TC02_Variation_Setup.md
-│   │   └── TC03_Test_Execution.md
-│   │
-│   └── 03_Reporting/
-│       ├── TC01_Results_Dashboard.md
-│       └── TC02_Data_Export.md
-│
-├── Defect_Reports/
-│   ├── Bug_Report_Template.md
-│   └── Defects_Logged.xlsx
-│
-├── Assets/
-│   ├── screenshots/
-│   └── test_data/
-│
+
+vwo-manual-testing/
+├── 1_Test_Plan/
+│ ├── VWO_Test_Plan_v1.0.pdf
+│ ├── Test_Strategy.md
+│ └── Test_Matrix.xlsx
+├── 2_Test_Cases/
+│ ├── Module_1_Authentication/
+│ │ ├── TC_AUTH_01_Valid_Login.md
+│ │ └── TC_AUTH_02_Password_Recovery.md
+│ ├── Module_2_AB_Testing/
+│ │ ├── TC_ABT_01_Create_Experiment.md
+│ │ └── TC_ABT_02_Variation_Setup.md
+│ └── Module_3_Reporting/
+│ └── TC_REP_01_Results_Dashboard.md
+├── 3_Defect_Reports/
+│ ├── DEFECT_001_Login_Issue.md
+│ └── Defect_Log.xlsx
+├── 4_Assets/
+│ ├── screenshots/
+│ ├── test_data/
+│ └── environment/
 └── README.md
 
 ## 2.📋 Test Plan
