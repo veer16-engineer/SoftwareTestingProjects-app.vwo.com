@@ -142,7 +142,10 @@ Images: [test-button-blue.png, test-button-orange.png]
 
 🔍 Test Case Coverage
 
-![Mermaid Diagram](assets/deepseek_mermaid_20250503_2a0170.png)
+<p align="center">
+  <img src="assets/deepseek_mermaid_20250503_2a0170.png" alt="Mermaid Diagram" width="600">
+</p>
+
 
 
 🚨 Defect Reporting
